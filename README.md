@@ -2,7 +2,7 @@
 DISCIPLINA DE LÓGICA DE PROGRAMAÇÃO E ALGORITMOS
 ATIVIDADE PRÁTICA
 </h1>
-> 1 EXERCÍCIO 1 
+<p> <h2>EXERCÍCIO  1 - Restaurante em liguagem de programção em C.</p></h2>
 <p></p>Faça um algoritmo em linguagem C para calcular quanto cada cliente gastou em pedidos realizados em uma lancheria. A lancheria vende 
 os seguintes produtos:</p> 
 <p>Item Produto Código Preço Unitário 1 Cachorro-quente 100 5,00 2 X-salada 101 8,79 3 X-bacon 102 9,99 4 Misto 103 6,89 5 Salada 104 
@@ -16,5 +16,12 @@ pedidos. Os três primeiros dígitos serão os itens comprados, e os três últi
 for 1234567, a compra resultante será:</p>
 <p>Item Produto Quantidade 1 (1º dígito) Cachorro-quente 5 (antepenúltimo dígito) 2 (2º dígito) X-salada 6 (penúltimo dígito) 3 (3º dígito) 
 X-bacon 7 (último dígito)</p>
->status: Finalizado<br>
->para rodar basta abrir em qualquer compliador web ou Visual Studio 2022 Community
+<br>
+
+<p> <h2>EXERCÍCIO 2 -  Jogo de xadrez realizado linguagem de programação em C. </p></h2>
+Vamos supor que várias pedras do jogo de xadrez estão no tabuleiro. Para facilitar a indicação das peças, vamos convencionar: 1 – peões 3 –
+torres 5 – reis 0 – ausência de peças 2 – cavalos 4 – bispos 6 – rainhas O tabuleiro é o seguinte: 
+<p></p>Construa um programa, em linguagem C, que: a) Solicite ao usuário que informe qual peça deseja colocar em cada posição do tabuleiro. b) 
+Mostre o tabuleiro informado pelo usuário na tela. c) Determine a qual a quantidade de cada tipo de peça no tabuleiro.
+</p>
+
